@@ -50,7 +50,7 @@ var studentsInClass = 12;
 var numOfJapanPrefectures = 23;
 var currentIphoneModel = 8;
 var shoeSize = 14;
-var numberArray = [favoriteNumber, currentYear, thatOnePrinceSong, tokyoOlympics, mariahCareyAge, currentTemp, studentsInClass, numOfJapanPrefectures, currentIphoneModel, shoeSize]
+var numberArray = [favoriteNumber, currentYear, thatOnePrinceSong, tokyoOlympics, mariahCareyAge, currentTemp, studentsInClass, numOfJapanPrefectures, currentIphoneModel, shoeSize];
 console.log();
 console.log("Array of numbers: ");
 console.log(numberArray);
@@ -121,9 +121,9 @@ var plateLunch = ["Sushi", "Cake", "Fruit", "Chicken", "Broccoli"];
 var fruitBasket = ["Apple", "Orange", "Grapes", "Pear", "Liver, probably"];
 var westCoast = ["Washington", "Oregon", "California"];
 var lotteryResult = [9, 28, 123, 0, 9];
-var duets = [["Blue Man 1", "Blue Man 2"], ["Green Day", "Smash Mouth"], ["Some band", "That other band"]]
-var mixPlate = [["this is a nested array", 1, null], true, false, "probably false"]
-var arrayArray = [plateLunch, fruitBasket, westCoast, lotteryResult, duets]
+var duets = [["Blue Man 1", "Blue Man 2"], ["Green Day", "Smash Mouth"], ["Some band", "That other band"]];
+var mixPlate = [["this is a nested array", 1, null], true, false, "probably false"];
+var arrayArray = [plateLunch, fruitBasket, westCoast, lotteryResult, duets];
 console.log();
 console.log("Array of arrays: ");
 console.log(arrayArray);
@@ -270,6 +270,7 @@ console.log(myBox);
 myBox = (5+62);
 console.log(myBox);
 myBox = "I dunno what to put here";
+console.log(myBox);
 
 /**
 * Final Boss 
