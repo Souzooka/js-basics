@@ -308,8 +308,10 @@ function jump(height) {
 	return ("You jumped " + height + " feet high!");
 }
 
+var jumpResult = jump(9);
+
 console.log();
-console.log(jump(9));
+console.log(jumpResult);
 
 function cook(ingredient1, ingredient2, recipeName) {
 	return (ingredient1 + " and " + ingredient2 + " make a " + recipeName + "!");
